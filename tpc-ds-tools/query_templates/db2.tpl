@@ -32,6 +32,8 @@
 -- 
 -- Contributors:
 -- 
+define _BEGIN = "";
+define _END = "";
 define __LIMITA = "";
 define __LIMITB = "";
 define __LIMITC = " fetch first %d rows only";
